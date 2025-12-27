@@ -1,0 +1,19 @@
+=== BLEU-4 Scores (Assignment Requirement) ===
+Experiment: 100k_additive_tf0
+Attention Type: additive
+Teacher Forcing Ratio: 0.0
+Dataset: 100k
+
+--- Decoding Strategy Comparison ---
+Greedy (Beam-1): 7.54
+Beam-3: 1.39
+Beam-5: 1.38
+Beam-10: 7.54
+
+Improvement (Beam-5 over Greedy): -6.16
+Best Validation Loss: 6.1181
+Model Parameters: 27,462,976
+
+=== Note ===
+Using '13a' tokenizer for English (target language)
+BLEU-4 calculated with effective_order=True as per assignment

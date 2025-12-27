@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "mcp__ide__executeCode",
+      "Bash(python visualize_experiments.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

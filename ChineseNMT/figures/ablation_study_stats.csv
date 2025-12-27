@@ -1,0 +1,9 @@
+﻿Factor,Category,Count,Mean,Std,Min,Max
+Position Encoding,Absolute,8,7.57,0.99,5.84,8.67
+,Relative,8,8.52,0.64,7.59,9.50
+Normalization,LayerNorm,8,8.00,1.04,5.84,9.08
+,RMSNorm,8,8.08,0.90,6.55,9.50
+Optimizer,Adam,8,7.88,1.08,5.84,9.50
+,Noam,8,8.21,0.81,6.55,9.08
+Label Smoothing,No Smooth,8,7.53,1.02,5.84,9.08
+,Smooth,8,8.56,0.50,7.90,9.50

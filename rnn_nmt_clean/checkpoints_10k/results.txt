@@ -1,0 +1,5 @@
+Greedy BLEU Score: 9.48
+Beam Search (k=5) BLEU Score: 9.48
+Improvement: 0.00
+Best Validation Loss: 6.9652
+Model Parameters: 21,511,232
